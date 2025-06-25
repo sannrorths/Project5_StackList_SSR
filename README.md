@@ -1,4 +1,5 @@
 StackList
+____________________________________________________________________________________________________________________________________________________________________________
 
 This java program will take a list of Integer numbers from the scanned input and save them into a Stack sorted from the smallest to the largest. It shows examples of codes reuse and the Java Collections Framework.
 
@@ -7,7 +8,7 @@ If user inputs are invalid, it will loop back for more user's inputs until user 
 to break out of the program.
 
 The numStack method will pop and/or push numbers onto the Stack according to its value.
-
+____________________________________________________________________________________________________________________________________________________________________________
 Instructions on how to run the program.
 •	Please ensure Java has been installed on the computer.
 •	Create a folder call for StackList.java. 
